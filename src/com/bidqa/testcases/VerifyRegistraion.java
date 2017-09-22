@@ -19,7 +19,7 @@ public class VerifyRegistraion {
 	// private static final String TestConstants = null;;;;;
 		private WebDriver driver;
 			public static void main(String[] args) {
-				// TODO Auto-generated method stub
+				// TODO Auto-generated method stub::::::::::
 			}
 			 @Before
 			    public void setUp() throws Exception {
