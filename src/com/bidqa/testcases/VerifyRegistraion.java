@@ -16,7 +16,7 @@ public class VerifyRegistraion {
 	//FirefoxBinary ffBinary = new FirefoxBinary(pathToBinary);
 //	FirefoxProfile firefoxProfile = new FirefoxProfile()      
 //	driver = new FirefoxDriver(ffBinary,firefoxProfile);
-	// private static final String TestConstants = null;
+	// private static final String TestConstants = null;;;;;
 		private WebDriver driver;
 			public static void main(String[] args) {
 				// TODO Auto-generated method stub
