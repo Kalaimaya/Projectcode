@@ -17,6 +17,10 @@ public class LoginPage {
 	WebDriver driver;
 	
 	
+	static {
+		System.out.println("Hello from loginpage");
+	}
+	
 	By userlogin=By.className("login-awsome");
 	By username=By.xpath(".//*[@id='log']");
 	By password=By.xpath(".//*[@id='login_password']");
