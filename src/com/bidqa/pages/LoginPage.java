@@ -13,7 +13,7 @@ import org.openqa.selenium.WebDriver;
  */
 public class LoginPage {
 	
-	//local variable perform activity
+	//local variable perform activity//
 	WebDriver driver;
 	
 	
